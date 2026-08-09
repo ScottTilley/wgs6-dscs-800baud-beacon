@@ -36,7 +36,7 @@ That work gave us a very distinctive RF fingerprint for the DSCS-III SCT beacon.
 
 A few years later I returned to the DSCS-III spacecraft while working on automated X-band tracking.
 
-USA-134 was still transmitting the older beacon format remarkably cleanly.
+**USA-134 was still transmitting the older beacon format remarkably cleanly.**
 
 When I revisited the two spacecraft more recently, they were no longer behaving identically.
 
@@ -255,7 +255,23 @@ The most plausible reading of the evidence is therefore that the **signaling arc
 
 ---
 
-## 6. What this does *not* show
+
+## 6. The old DSCS constellation is still arranged globally
+
+The orbital geometry adds another interesting piece to the story.
+
+Propagating the selected DSCS-III and WGS spacecraft to **2026-08-09 00:00:00 UTC** and plotting their Earth-fixed longitudes from above the North Pole shows that the surviving DSCS spacecraft are still spread around the geostationary belt rather than clustered in one region.
+
+![DSCS-III and WGS geosynchronous longitudes on 2026-08-09](images/dscs_wgs_geo_positions_2026-08-09.png)
+
+The four DSCS-III spacecraft considered here — **USA-134, USA-153, USA-167, and USA-170** — still occupy widely separated longitude sectors. In particular, subsets of the DSCS spacecraft remain spaced on the order of **120° apart**, which is what would be expected from a constellation intended to maintain broad, effectively worldwide longitudinal coverage.
+
+I would not take the present geometry alone as proof of an active operational requirement or current mission assignment. But the spacing is difficult to dismiss as a random cluster of retired spacecraft: the surviving DSCS assets still resemble a deliberately distributed global constellation.
+
+That makes the RF observations more interesting. The system is not only preserving elements of the old SCT signaling architecture; the remaining DSCS spacecraft also still sit in a geometry that is consistent with the global coverage logic of the original constellation.
+
+
+## 7. What this does *not* show
 
 There is an important distinction between identifying the framing architecture and identifying the operational content carried by it.
 
@@ -267,7 +283,7 @@ So the claim here is about the **signal structure and framing**, not about opera
 
 ---
 
-## 7. Reproduce the result
+## 8. Reproduce the result
 
 The repository contains both the original receiver recordings and the demodulated soft-symbol files.
 
