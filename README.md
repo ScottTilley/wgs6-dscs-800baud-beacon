@@ -36,7 +36,7 @@ That work gave us a very distinctive RF fingerprint for the DSCS-III SCT beacon.
 
 A few years later I returned to the DSCS-III spacecraft while working on automated X-band tracking.
 
-**USA-134 was still transmitting the older beacon format remarkably cleanly.**
+USA-134 was still transmitting the older beacon format remarkably cleanly.
 
 When I revisited the two spacecraft more recently, they were no longer behaving identically.
 
