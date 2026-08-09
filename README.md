@@ -357,6 +357,6 @@ WGS-6, meanwhile, looks much more like present-day USA-167 than it does USA-134.
 
 That turns USA-167 into the missing link in the comparison: direct observational evidence that the old SCT framing can remain while the legacy telemetry presentation changes.
 
-A system described in the late 1990s as an interim bridge to Milstar — and associated with a strategic communications mission expected to transition away from DSCS after 2003 — has left a remarkably persistent RF fingerprint.
+A system described in the late 1990s as an interim bridge to Milstar, and associated with a strategic communications mission expected to transition away from DSCS after 2003, has left a remarkably persistent RF fingerprint.
 
 **Something familiar really was hiding in WGS-6.**
